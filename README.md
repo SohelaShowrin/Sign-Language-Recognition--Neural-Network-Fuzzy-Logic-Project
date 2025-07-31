@@ -1,6 +1,6 @@
 # Sign-Language-Recognition--Neural-Network-Fuzzy-Logic-Project
 
-                                                   INTRODUCTION
+# 🏷INTRODUCTION
  Sign language is an essential communication method
  for individuals with hearing impairments, enabling them to
  express thoughts, emotions, and needs effectively. However, a
@@ -23,11 +23,11 @@ malization, dropout techniques ,one hot encoding, the model
  deep learning in bridging communication barriers and improving
  accessibility through technology.
 
-                                                       Results
+ # 🔑Results
                                                        
 <img width="497" height="457" alt="output" src="https://github.com/user-attachments/assets/0027e7ad-2ec4-4e3e-a801-904111bb5c6f" />
 
-                                                        CONCLUSION
+# ✅CONCLUSION
 This project shows how important it is to model sign
  language gestures accurately using Convolutional Neural Net
 works (CNNs). By using the American Sign Language (ASL)
